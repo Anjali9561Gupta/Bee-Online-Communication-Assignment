@@ -1,0 +1,38 @@
+/* Custom Navbar Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa; /* Background color for the body */
+}
+
+/* Custom Colors for the Navbar */
+.bg-custom {
+    background-color: #f06f6f; /* Background color for the navbar */
+}
+
+.navbar-brand img {
+    width: 120px; 
+}
+
+.nav-link {
+    color: #ffffff; /* Text color for navbar links */
+    font-weight: 500; /* Font weight for navbar links */
+    margin-right: 20px; /* Spacing between navbar items */
+    transition: color 0.3s; /* Smooth transition effect for hover */
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #ffdd00; /* Hover and active state color */
+}
+
+.btn-outline-light {
+    border-color: #ffffff; /* Button border color */
+    color: #ffffff; /* Button text color */
+}
+
+.btn-outline-light:hover {
+    background-color: #ffffff; /* Button hover background color */
+    color: #004aad; /* Button hover text color */
+    border-color: #ffffff; /* Button hover border color */
+}
+
