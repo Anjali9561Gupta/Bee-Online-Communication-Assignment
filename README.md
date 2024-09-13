@@ -1,7 +1,7 @@
 # Technical Interview Assignment
 <p>This project is a web page built based on the provided design, following the instructions given for the technical interview assignment.</p>
 
-Live Link-
+Live Link-https://bee-online-communication-assignment.vercel.app/
 
 <p>This project is a technical interview assignment to build a web page based on the design provided in the Figma file. The task includes implementing the desktop design as given and creating a mobile-responsive version using Bootstrap 5 and custom CSS. The completed web page will be evaluated based on creativity, adherence to the design, and responsiveness.</p>
 
